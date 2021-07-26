@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehCruz
-- 👀 I’m interested in Development and learning new stuff
+- 👀 I’m interested in backend development and learning new stuff
 - 🌱 I’m currently learning Quarkus and looking foward for try new things like Scalar ou Clojure
 - 💞️ I’m looking to collaborate on Open-Source projects
 - 📫 How to reach me? You can send me an e-mail: cruzeduardohenrique@gmail.com
